@@ -1,0 +1,10 @@
+{
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./task1/"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
